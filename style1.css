@@ -31,4 +31,6 @@ nav ul li a {
 
 img {
     border-radius: 50%;
+    height: 25%;
+    width: 100%;
 }
